@@ -1,3 +1,4 @@
+
 # 5toAzul-Juan-Maizo
 Pensamiento computacional 
 clase del 24/09 creación del github 
@@ -78,3 +79,4 @@ void loop() {
   }
 }
 
+<img width="1809" height="2366" alt="IMG_3104" src="https://github.com/user-attachments/assets/c384b1ed-d389-4499-9723-5c6e215f8a81" />
